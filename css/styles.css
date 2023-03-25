@@ -10,13 +10,13 @@ p{
 h1{
     margin: 50px;
     margin-bottom: 0;
-    font-size: 5.625rem;
+    font-size: 3.6rem;
     font-family: 'Sacramento', cursive;
     color: #460C68;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 2rem;
+    font-size: 1.28rem;
     color: #460C68;
 }
 h3{
@@ -28,17 +28,19 @@ h3{
     padding-top: 120px;
     background-color: #ECF2FF;
 }
-
+.mountain{
+    width: 30%;
+}
 .top-cloud{
     position: absolute;
-    right:400px;
+    right:300px;
     top: 70px;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 400px;
-    bottom: 350px;
+    left: 300px;
+    bottom: 340px;
 }
 
 a{
